@@ -1,2 +1,11 @@
-# Project exclude paths
-/target/
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/.idea
+/.allure
+/target
+/build
+/allure-results
+/out
+*.iml
+*.log
